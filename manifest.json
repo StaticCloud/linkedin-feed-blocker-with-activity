@@ -5,7 +5,7 @@
         "linkedin-feed-blocker.css"
       ],
       "matches": [
-        "*://*.linkedin.com/feed/"
+        "*://*.linkedin.com/*"
       ]
     }
   ],
