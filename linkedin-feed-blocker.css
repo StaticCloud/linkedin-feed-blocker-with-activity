@@ -1,8 +1,4 @@
-[aria-label="Main Feed"] .feed-new-update-pill__new-update-button,
-[aria-label="Main Feed"] .feed-right-rail,
-[aria-label="Main Feed"] .feed-shared-update-v2,
-[aria-label="Main Feed"] .nav-item__badge--doughnut,
-[aria-label="Main Feed"] .feed-shared-news-module,
-[aria-label="Main Feed"] .feed-follows-module {
+[aria-label="Main Feed"] *,
+.groups-core-rail * {
 	display: none !important;
 }
